@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace ClipboardImageViewer
 {
     partial class Form1
     {
