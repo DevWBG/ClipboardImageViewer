@@ -16,11 +16,8 @@ namespace ClipboardImageViewer
         string FilePath;
         int InFolderFileIndex = 0;
         int FolderIndex = 0;
-        int TempIndex = 0;
         string[] files;
-        string[] strtemp;
         string[] extensions = { "png", "jpg", "gif" };
-        string temp;
 
         public Form1()
         {
